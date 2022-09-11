@@ -1,0 +1,25 @@
+{
+  "name": "livraria-2ds",
+  "version": "1.0.0",
+  "description": "trabalho de DS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas1375/Livraria-2DS.git"
+  },
+  "keywords": [
+    "LUCAS"
+  ],
+  "author": "LUCAS SANTOS DA SILVA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas1375/Livraria-2DS/issues"
+  },
+  "homepage": "https://github.com/lucas1375/Livraria-2DS#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
